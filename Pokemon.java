@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Map;
 
-public class Wawancara {
+public class Pokemon {
 
     public static void main(String[] args) {
         ArrayList listName = new ArrayList();
